@@ -60,3 +60,27 @@ a:hover {
 .source{
 	list-style-type: decimal
 }
+
+a .cel {
+	color:#84785f;
+	font-style: none;
+}
+
+a .ro{
+	color:#84785f;
+	font-style: none;
+}
+
+b{
+	color:#84785f;
+	font-style: none;
+}
+
+figcaption{
+	color:#84785f;
+	font-style: italic;
+}
+
+dt{
+	font-weight: bold;
+}
