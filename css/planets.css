@@ -51,9 +51,10 @@ a:hover {
 	color:white;
 }
 
-cite{
+.quote{
 	font-style: none;
 	text-align:right;
+	color:#6a604b;
 }
 
 .source{
