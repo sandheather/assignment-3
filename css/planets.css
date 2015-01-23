@@ -8,6 +8,7 @@ h1{
 	font-style: normal;
 	font-family: 'Fredericka the Great', cursive;
 	line-height: 1.5;
+	color: #595345;
 }
 
 h2{
@@ -16,6 +17,7 @@ h2{
 	font-style: normal;
 	font-family: 'Fredericka the Great', cursive;
 	line-height: 1.5;
+	color: #595345;
 }
 
 h3{
@@ -24,4 +26,20 @@ h3{
 	font-style: normal;
 	font-family: 'Fredericka the Great', cursive;
 	line-height: 1.5;
+	color: #595345;
+}
+
+ul{
+	list-style-type: lower-roman;
+}
+
+ol{
+	padding: 0;
+}
+a{
+	color: #3d382d
+}
+
+a:hover {
+	color:white;
 }
