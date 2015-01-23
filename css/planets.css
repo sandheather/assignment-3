@@ -1,5 +1,6 @@
 html {
 	background-color: #dbd3c2;
+	font-size: 0.5rem;
 }
 
 h1{
@@ -29,11 +30,17 @@ h3{
 	color: #595345;
 }
 
-ul{
+ol{
 	list-style-type: lower-roman;
 }
 
-ol{
+blockquote{
+	font-size: 2rem;
+	font-style: italic;
+}
+
+ul{
+	list-style-type: none;
 	padding: 0;
 }
 a{
@@ -42,4 +49,9 @@ a{
 
 a:hover {
 	color:white;
+}
+
+cite{
+	font-style: none;
+	text-align:right;
 }
