@@ -55,3 +55,7 @@ cite{
 	font-style: none;
 	text-align:right;
 }
+
+.source{
+	list-style-type: decimal
+}
