@@ -52,8 +52,6 @@ a:hover {
 }
 
 .quote{
-	font-style: none;
-	text-align:right;
 	color:#6a604b;
 }
 
@@ -63,17 +61,17 @@ a:hover {
 
 a .cel {
 	color:#84785f;
-	font-style: none;
+
 }
 
 a .ro{
 	color:#84785f;
-	font-style: none;
+
 }
 
 b{
 	color:#84785f;
-	font-style: none;
+
 }
 
 figcaption{
